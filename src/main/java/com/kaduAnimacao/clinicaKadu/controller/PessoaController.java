@@ -35,14 +35,14 @@ public class PessoaController {
     }
 
     @GetMapping
-    public ResponseEntity listarPessoas(@PageableDefault(size=3,sort={"nome"},page = 1)Pageable pageable){
+    public ResponseEntity listarPessoas(@PageableDefault(size=10,sort={"nome"},page = 1)Pageable pageable){
         var pessoas = pessoaService.listarTodos(pageable);
         return  ResponseEntity.ok(pessoas);
     }
 
     @PutMapping
     @Transactional
-    public ResponseEntity atualizarPessoa(@RequestBody  AtualizaPessoaDTO dados){
+    public ResponseEntity atualizarPessoa(@RequestBody  @Valid AtualizaPessoaDTO dados){
         var pessoa = pessoaService.atualizar(dados);
         return  ResponseEntity.ok().body(new DetalhamentoPessoaDTO(pessoa));
 
@@ -51,8 +51,7 @@ public class PessoaController {
     @DeleteMapping("/{id}")
     @Transactional
     public ResponseEntity deletarPessoa(@PathVariable Long id){
-        var pessoa = pessoaService.encontrarPorId(id);
-        pessoa.excluir();
+        pessoaService.delete(id);
         return ResponseEntity.noContent().build();
     }
 

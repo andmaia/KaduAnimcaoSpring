@@ -35,7 +35,8 @@ public class PessoaService {
     }
 
     public void delete(Long id) {
-        pessoaRepository.deleteById(id);
+        var pessoa = pessoaRepository.getReferenceById(id);
+        pessoa.excluir();
     }
 
     public Pessoa atualizar(AtualizaPessoaDTO dados){
@@ -43,6 +44,7 @@ public class PessoaService {
         pessoa.atualizarAtributos(dados);
         return pessoa;
     }
+
 
 
 }
