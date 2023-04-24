@@ -1,4 +1,4 @@
-package com.kaduAnimacao.clinicaKadu.exception;
+package com.kaduAnimacao.clinicaKadu.infra.exception;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.ResponseEntity;
