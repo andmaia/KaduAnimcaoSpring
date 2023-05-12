@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1acafc32-3c8e-4c76-9df1-58e42778745f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste/Teste.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/Teste/Teste.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/ClinicaKaduApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/ClinicaKaduApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/AutenticacaoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/AutenticacaoDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pessoa/AtualizaPessoaDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pessoa/AtualizaPessoaDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pessoa/CadastroPessoaDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pessoa/CadastroPessoaDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pessoa/DetalhamentoPessoaDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pessoa/DetalhamentoPessoaDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pet/AtualizarPetDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pet/AtualizarPetDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pet/CadastroPetDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pet/CadastroPetDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pet/DetalhamentoPetDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/DTO/pet/DetalhamentoPetDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/controller/AutenticacaoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/controller/AutenticacaoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/controller/PessoaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/controller/PessoaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/controller/PetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/controller/PetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/infra/DatabaseSemed.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/infra/DatabaseSemed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/infra/exception/TratadorDeErros.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/infra/exception/TratadorDeErros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/infra/security/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/infra/security/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/infra/security/SecurityFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/infra/security/SecurityFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/infra/security/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/infra/security/TokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/models/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/models/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/models/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/models/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/models/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/models/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/repository/PessoaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/repository/PessoaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/repository/PetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/repository/PetRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/repository/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/repository/UsuarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/service/AutenticacaoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/service/AutenticacaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/service/PessoaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/service/PessoaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/service/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/service/PetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kaduAnimacao/clinicaKadu/service/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/java/com/kaduAnimacao/clinicaKadu/service/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kaduAnimacao/clinicaKadu/ClinicaKaduApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ENGINE/src/test/java/com/kaduAnimacao/clinicaKadu/ClinicaKaduApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Pfhyzpz6QHPcdivyOo6BK5Tgck" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\Projects\KaduAnimcaoSpring\ENGINE" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1acafc32-3c8e-4c76-9df1-58e42778745f" name="Changes" comment="" />
+      <created>1683854304148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683854304148</updated>
+    </task>
+    <servers />
+  </component>
+</project>
